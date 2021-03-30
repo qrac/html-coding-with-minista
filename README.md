@@ -1,1 +1,1 @@
-# html-coding-with-minista
+# HTML coding with minista
