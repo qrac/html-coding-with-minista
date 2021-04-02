@@ -1,36 +1,14 @@
 {
   "name": "html-coding-with-minista",
   "private": true,
-  "version": "1.0.0",
   "license": "MIT",
-  "homepage": "https://github.com/qrac/html-coding-with-minista",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/qrac/html-coding-with-minista"
-  },
-  "bugs": {
-    "url": "https://github.com/qrac/html-coding-with-minista/issues"
-  },
-  "keywords": [
-    "minista",
-    "coding",
-    "japanese"
-  ],
   "scripts": {
     "dev": "minista",
     "build": "minista build",
-    "clean": "trash ./dist ./resources"
+    "clean": "trash ./dist"
   },
   "prettier": {
     "semi": false
-  },
-  "author": {
-    "name": "Qrac",
-    "url": "https://qrac.jp"
-  },
-  "organization": {
-    "name": "QRANOKO",
-    "url": "https://qranoko.jp"
   },
   "browserslist": [
     "last 1 Chrome versions",
