@@ -13,12 +13,13 @@ HTML・CSS・JavaScript のコーディングを快適にするために作成�
 - 開発と web コーディングが分業になっている場合を想定
 - スタティックサイトジェネレーターの `minista` を使用
 - 書き慣れた React(JSX)から納品用の綺麗な HTML を出力
-- ホットリロード・SCSS・Babel 等の webpack 環境を設定済み
-- Node.js が入っていればだいたい使える簡単仕様
+- ディレクトリ構成は Next.js や Gatsby.js 風
+- ライブリロード・SCSS・Babel 等の webpack 環境を設定済み
+- Node.js が入っていればだいたい使える簡単設計
 
 ## How to use
 
-`minista` は [Qrac](https://qrac.jp) が作った SSG です。使い方は以下のリポジトリをご確認ください。
+`$ npm install --save-dev minista` しつつ、サンプルのディレクトリ構成にしたがって JS や CSS を書いていくのみ。 `minista` は [Qrac](https://qrac.jp) が作った SSG です。使い方は以下のリポジトリをご確認ください。
 
 Repo: https://github.com/qrac/minista
 
