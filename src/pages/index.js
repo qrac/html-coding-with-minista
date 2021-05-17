@@ -8,7 +8,8 @@ const Home = () => {
       <Helmet>
         <title>HTML coding with minista</title>
       </Helmet>
-      <h1>Hello</h1>
+      <h1>HTML coding with minista</h1>
+      <h2>test</h2>
     </main>
   )
 }
